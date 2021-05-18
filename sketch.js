@@ -5,8 +5,7 @@ function setup() {
 
 function draw() {
   background(45);
-  // rotateX(frameCount/1.5)
-  rotateY(frameCount/1.5)
+  rotateX(frameCount/1.5)
   noFill()
   stroke(255)
   for (var i=0; i<60; i++) {
