@@ -4,7 +4,7 @@
 
 A Sinusodial wave ("sine wave") is a one-dimension motion that wiggles over time and acts as the mathematical basis behind sounds, vibrations, pendulums, etc. It makes circles "circular" in the same way lines make squares "square". Learn more about the sine wave [here](https://betterexplained.com/articles/intuitive-understanding-of-sine-waves/).
 
-This clip is essentially how soundwaves travel through air if you imagine it in an expanded scale.
+This clip is essentially how soundwaves travel through air if you imagine it in an expanded scale, minus the color changes :)
 
 <!-- ![](https://media.giphy.com/media/yqK3ysMBjZLeDwEVGZ/giphy.gif) -->
 
